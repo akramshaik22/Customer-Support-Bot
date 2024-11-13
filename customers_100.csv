@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone_number,shipping_address,city,state,zip_code,country,created_at,updated_at
+1,Rhonda,Long,ericnolan@example.com,(619)843-3023x157,4144 Patrick Lane,Salazarburgh,RI,17821,Christmas Island,2024-06-19 01:07:10,2024-07-17 16:14:53
+2,Madison,Lowery,toddcruz@example.net,240-836-1849x96976,297 Nicholson Spur,West Dana,FL,14449,Brunei Darussalam,2024-02-03 07:40:24,2024-07-04 22:28:06
+3,Lawrence,Obrien,hphelps@example.org,945.340.9552,7922 Mccormick Extensions,Heatherton,CA,93491,Svalbard & Jan Mayen Islands,2024-05-13 05:50:19,2024-02-28 20:40:42
+4,Christina,Hunt,jaime25@example.com,(309)718-9381,6915 Ellis Centers Suite 079,West Brandonhaven,IL,77897,Niger,2024-02-11 23:31:25,2024-03-21 09:24:46
+5,Glenn,Alexander,xhansen@example.com,(585)887-8218x34848,874 Peterson Rapid Suite 755,Brockfort,MS,66166,Taiwan,2024-06-22 07:09:03,2024-03-29 04:10:53
+6,Daniel,Lewis,haneyjulie@example.net,480-569-3728x496,20421 Anthony Divide Apt. 656,Port Natasha,MS,72675,Cote d'Ivoire,2024-04-08 02:23:58,2024-02-07 00:06:19
+7,Ashley,Coleman,jlopez@example.net,331.555.3606x674,840 Hernandez Shoal Apt. 312,Port Megan,AL,45834,Dominica,2024-05-10 23:13:48,2024-04-18 23:59:01
+8,Cynthia,Moyer,gmarquez@example.com,+1-626-790-9345x3464,153 Green Ways,Lisafort,IL,01229,Suriname,2024-02-10 07:55:10,2024-02-19 00:10:11
+9,Jenny,Garcia,frenchjoseph@example.org,503.847.5146x86574,925 Guerra Road,South Tiffanymouth,WI,34565,French Polynesia,2024-03-06 03:35:45,2024-01-26 13:16:26
+10,Ashley,Williams,wernerpaul@example.com,4443532923,974 Coleman Bridge Suite 448,South Laurenside,WA,78481,Ireland,2024-04-24 05:29:35,2024-03-31 17:32:25
+11,Brittany,Short,ybrown@example.net,7703583586,0059 Austin Village,Juarezmouth,OH,51309,Puerto Rico,2024-02-23 08:05:18,2024-05-28 19:29:51
+12,Bradley,Watson,nleonard@example.com,(934)624-4757x543,92814 Nicole Shores,Port Danielborough,NE,69869,Panama,2024-02-25 00:34:00,2024-05-27 12:03:34
+13,Joseph,Lopez,matthew37@example.com,(624)591-5416x81592,95163 Vasquez Ways Suite 102,Patelchester,PA,03441,Togo,2024-02-16 00:47:54,2024-02-13 14:54:22
+14,Jessica,Morris,jeffreytaylor@example.com,577.775.2265,67373 Gutierrez Gateway,Port Rebeccaville,SC,18704,Brunei Darussalam,2024-03-16 05:57:00,2024-03-02 17:49:40
+15,Samuel,Ferrell,jonathansanchez@example.com,001-826-544-7552x89716,131 Justin Mills Apt. 078,Hernandezstad,GU,02845,Seychelles,2024-03-10 05:23:31,2024-04-09 21:00:44
+16,Scott,Payne,rogerlopez@example.com,4255152009,1252 Matthew Drives,Sandersmouth,ID,36152,Guinea,2024-03-24 00:05:21,2024-04-01 16:27:20
+17,Colin,Stevens,willie59@example.org,001-732-805-3447,1619 Osborne Canyon Apt. 943,Lesliemouth,NV,19091,Niue,2024-02-17 03:35:14,2024-05-13 11:36:33
+18,Katie,Osborn,hudsondavid@example.com,3519085168,352 Wolfe Estates,Lake Caitlinland,IN,16828,Uganda,2024-01-27 02:39:14,2024-06-13 20:36:38
+19,Jesus,Clark,jrice@example.com,+1-882-587-5354x12933,03667 Boyd Via,Brenttown,SC,80719,Belize,2024-04-14 12:32:17,2024-02-17 05:44:25
+20,Lindsay,Schmidt,jonathan81@example.com,8037878166,481 Murphy Views Suite 169,Curryberg,SD,72297,Latvia,2024-02-12 06:59:19,2024-06-25 08:05:06
+21,Jason,Williams,eileencrawford@example.net,+1-404-464-3692x9708,899 Carmen Cliffs,East Davidtown,PR,52945,Saint Pierre and Miquelon,2024-06-18 06:08:19,2024-01-13 23:29:31
+22,Brianna,Shaw,smcgee@example.org,001-634-762-3496x75900,064 Mckenzie Meadows Apt. 040,Port Kathy,AS,84243,Trinidad and Tobago,2024-01-20 14:25:23,2024-02-25 21:09:03
+23,Michael,Arias,robincabrera@example.com,3172643355,6549 Emily Divide,West Moniqueborough,AZ,21693,Micronesia,2024-02-23 14:28:01,2024-07-09 08:51:53
+24,Sara,Hill,cbarrera@example.org,(957)884-9253,213 Galvan Alley Apt. 976,Timothyland,UT,62324,Russian Federation,2024-07-20 05:42:19,2024-03-05 04:54:25
+25,Amanda,Walker,traci70@example.com,001-916-781-3661x55650,063 Julie Canyon,Haleland,MT,50960,Kuwait,2024-05-15 23:57:49,2024-03-31 20:29:58
+26,Gina,Robertson,susanmcguire@example.net,(419)985-1354x768,789 Buchanan Falls Suite 042,Brianside,OK,44074,Argentina,2024-03-31 14:31:36,2024-05-08 16:36:55
+27,Jessica,Brown,fisherjohn@example.org,001-521-563-5805x6480,7734 Nicole Viaduct Apt. 166,Gordonberg,FM,98821,Tonga,2024-02-07 15:38:33,2024-01-01 05:54:49
+28,Ricky,Fernandez,qpena@example.com,001-909-380-8747x2110,42520 Johnson Gardens Suite 989,Christinaborough,AS,32313,Romania,2024-03-29 20:52:54,2024-05-18 05:20:45
+29,Jonathan,Curtis,dmanning@example.net,(941)777-8349,042 Courtney Terrace Suite 703,Amandaton,NV,30246,Saint Kitts and Nevis,2024-06-26 21:25:04,2024-06-23 06:54:39
+30,Danielle,Gillespie,jonathan60@example.net,(226)777-5298x825,025 Jones Port,North Brian,PA,07775,Turkey,2024-06-04 23:35:25,2024-06-23 14:49:50
+31,Justin,Gilbert,uhouston@example.net,276-834-1381x9981,805 Randy Overpass Apt. 738,North Autumn,AZ,61255,Botswana,2024-02-07 03:55:22,2024-07-12 10:56:49
+32,Megan,Thomas,erinhill@example.com,(763)359-8489x1325,969 Gilmore Knoll Suite 457,Hernandezland,MH,77630,Japan,2024-06-14 18:12:30,2024-07-07 03:12:27
+33,Matthew,Lynch,ablair@example.net,001-992-512-2424x441,32714 Jessica Plaza Suite 767,Morrowport,NC,70607,Peru,2024-03-13 21:26:14,2024-01-25 00:28:53
+34,Debbie,Estrada,jamessheppard@example.net,408.576.6268,872 William Point,South Juan,KS,81930,Cuba,2024-03-02 23:37:25,2024-06-23 12:57:18
+35,Terri,Gregory,christopher55@example.com,7788274958,98093 David Rest Apt. 870,South Jenniferchester,SC,73713,Egypt,2024-05-19 12:01:50,2024-04-02 13:02:47
+36,Ronald,Morgan,simmonsbruce@example.com,001-471-758-5125,073 Brown Shores,New Lisa,MS,15735,Sao Tome and Principe,2024-03-20 11:24:02,2024-06-03 04:00:24
+37,April,Stephenson,jacksoncory@example.org,(276)313-3684x50504,4554 Peters Prairie Suite 897,Ayalaview,IA,54958,Greenland,2024-03-21 12:03:05,2024-03-17 02:39:00
+38,Lori,Wallace,sean93@example.org,422-269-1255x5317,429 William Grove Suite 862,New Matthewfort,NE,43327,Bahrain,2024-04-08 10:35:57,2024-06-29 21:13:31
+39,Mark,Lang,kelly53@example.com,307-985-8795,366 Eric Row,South Bob,SC,85713,Anguilla,2024-06-11 04:12:59,2024-05-08 17:03:08
+40,Stephen,Moran,sjackson@example.net,927.824.9327x4925,1467 Jeffrey Cliff Suite 567,Michaelside,GU,73523,Qatar,2024-06-10 04:46:46,2024-04-23 08:30:52
+41,Adam,Richardson,dmccormick@example.com,001-539-460-7062x8160,725 Williams Flats,Sherrychester,SC,30004,Mali,2024-03-01 05:09:57,2024-03-15 18:42:29
+42,Bailey,Williams,sgriffith@example.com,5997281776,5466 Rhonda Falls Suite 719,Scottfurt,CT,43836,Tunisia,2024-06-06 19:22:20,2024-05-12 06:21:22
+43,Stephen,Howard,lori72@example.org,(598)754-1207x730,2566 Jody Isle Suite 127,Port Michael,SC,16715,Belize,2024-04-12 08:39:21,2024-04-19 19:39:27
+44,Jeremy,Smith,parkerandrea@example.org,577-989-8614x6893,95008 Jacob Trail,East Kevin,ID,03539,Tuvalu,2024-05-11 10:28:44,2024-05-03 08:10:47
+45,Patricia,Smith,feliciacook@example.net,(366)779-7272x78658,222 April Pines Suite 544,Ortizland,WV,04163,Northern Mariana Islands,2024-07-06 23:15:52,2024-01-21 06:50:27
+46,Karen,Walter,gsmith@example.net,(981)552-2081x98041,921 Miller Underpass Apt. 533,Whitefort,OK,03031,Finland,2024-06-18 19:45:48,2024-07-18 05:21:35
+47,Kevin,Cisneros,david09@example.net,6749257054,40060 Emily Dam,Laurachester,NY,98188,Venezuela,2024-06-01 06:08:16,2024-05-16 19:08:26
+48,Marcus,Curtis,qclark@example.net,829.652.3415,893 Smith Stream Suite 760,Murraymouth,AR,63975,Central African Republic,2024-01-29 19:48:26,2024-06-21 17:47:59
+49,Samantha,Silva,ellisthomas@example.net,698.643.7024x1555,8331 Robert Harbors Suite 698,East Monicamouth,SC,94458,Seychelles,2024-06-14 10:21:57,2024-06-08 15:25:35
+50,Kristen,Fowler,danielle49@example.net,923.483.0398x5499,4333 Joyce Circle,Kevinbury,GU,81037,Cambodia,2024-01-09 18:05:40,2024-03-23 03:49:41
+51,Christopher,Mendoza,monicacooper@example.com,3104256673,95580 Rogers Trail,Juliamouth,MD,76452,Rwanda,2024-01-02 16:36:39,2024-03-23 10:25:21
+52,Nicole,Lee,jonathanjohnson@example.org,488-959-4751x39100,7413 Hughes Spur Apt. 083,West Johnchester,MD,49516,Bolivia,2024-01-26 16:17:24,2024-07-11 09:30:03
+53,Alexis,Wood,jennifer23@example.org,(510)945-2585x9927,79453 Bowen Burgs Apt. 877,West Christopher,VT,83478,Guadeloupe,2024-01-24 00:12:03,2024-06-04 11:06:30
+54,Robert,Russell,crawfordrichard@example.net,303-750-6472x856,575 Gay Street,North Joel,AL,10424,Kyrgyz Republic,2024-03-20 14:38:06,2024-05-07 13:46:20
+55,Robert,Williams,fmurray@example.net,802-968-6375x80289,34525 Cheryl Summit Suite 964,Micheleburgh,NM,87244,Barbados,2024-07-16 09:53:20,2024-05-05 22:45:32
+56,Alexandra,Randall,martinbender@example.com,(839)854-2782x258,57075 Annette Falls,Ashleymouth,FM,13279,Madagascar,2024-02-02 10:09:17,2024-04-28 23:37:02
+57,Alfred,Foster,williamscourtney@example.net,581.823.1498,00811 Morales Village Apt. 271,Michaelchester,WA,10484,Cape Verde,2024-01-01 11:08:19,2024-06-12 15:01:33
+58,Angela,Day,jonathan86@example.org,4584271432,526 Cisneros Points,Marcomouth,SD,29064,Iraq,2024-01-05 05:32:04,2024-04-20 05:51:08
+59,Tracey,Watkins,munozdevin@example.org,312-372-8657x59151,1506 Bowman Parkways Apt. 973,Nguyenview,NE,29554,Uganda,2024-04-13 10:52:15,2024-03-27 17:21:51
+60,Joshua,Heath,travisanthony@example.org,(945)696-7322x9689,5386 Wright Via Apt. 033,Thompsonview,WA,02352,Liechtenstein,2024-03-19 12:38:59,2024-05-17 13:59:14
+61,Joseph,Johnson,obanks@example.net,900.493.7240,06908 Duffy Mountain Suite 149,North Madison,SD,02723,Belarus,2024-06-14 11:02:13,2024-04-28 17:35:15
+62,Paula,Johnson,greenjacob@example.net,+1-495-388-5288,658 Jordan Brook,Karenmouth,FM,88963,Togo,2024-06-06 11:15:38,2024-07-08 23:08:55
+63,Edward,Austin,brooke94@example.net,(361)440-3798x6119,3030 Young Unions,Parsonsborough,MD,77012,Maldives,2024-01-26 12:56:10,2024-04-30 04:29:42
+64,Adam,Holloway,ashleyeverett@example.com,(759)652-2576x2320,6855 Kevin Branch,Anthonyfurt,AZ,20536,Sudan,2024-03-01 22:26:33,2024-03-26 05:10:53
+65,Kenneth,Arias,steven54@example.org,001-690-356-0255x501,972 Amanda Ramp,East Veronica,MI,98254,United States Virgin Islands,2024-06-29 07:01:47,2024-06-26 19:53:57
+66,Sarah,Schneider,kellyrobles@example.org,817-588-1896x656,879 Timothy Flat,Lake Douglasborough,NE,00604,Moldova,2024-02-07 10:25:52,2024-05-21 10:50:28
+67,David,Diaz,qyoung@example.net,001-725-628-1214x11507,0399 Jones Circles Apt. 946,Michaelside,RI,14424,Bermuda,2024-01-24 07:45:47,2024-07-05 19:39:32
+68,John,Weaver,gsherman@example.net,001-686-952-1928x0653,0724 Michael Valleys,Robertsville,MS,39397,Congo,2024-02-07 22:41:53,2024-01-26 23:34:00
+69,Lisa,Hanna,mary34@example.net,2693391920,7140 Ashley Divide Apt. 921,East Nathanmouth,UT,57074,Azerbaijan,2024-04-08 23:45:26,2024-04-10 11:42:54
+70,Christie,Hale,garzakelly@example.org,(959)644-9888x203,6670 Alvarado Parkways,East Zacharyview,ID,33223,Bouvet Island (Bouvetoya),2024-01-03 01:07:38,2024-06-28 19:37:53
+71,George,Townsend,reedchristopher@example.com,396.953.9486x3208,80650 Rhonda Trail,Reneefort,FM,06158,Mauritius,2024-01-30 01:30:47,2024-03-18 00:14:03
+72,Priscilla,Jones,lopezeric@example.net,(659)547-6871x43427,762 Jeffrey Harbors,Lake William,ND,06496,Monaco,2024-01-31 07:31:46,2024-03-20 05:32:24
+73,Thomas,Simmons,cassandra74@example.net,001-348-995-3186x4601,6587 Ayala Pines,Kimberg,CT,43588,Brazil,2024-06-29 03:57:42,2024-06-07 08:45:26
+74,Mary,Hanson,butlerkurt@example.net,303.937.3343x818,1795 Diana Square Apt. 569,Sandramouth,AS,24285,Australia,2024-07-02 21:02:23,2024-01-15 07:31:31
+75,Travis,Fisher,smithgeorge@example.com,001-351-314-4964x36695,403 Johnson Terrace,South Joseph,FL,30798,Sudan,2024-05-18 20:38:40,2024-01-20 14:15:41
+76,Maurice,Smith,anne41@example.org,001-565-294-2100x93994,5282 Cameron Glen Apt. 683,Osbornechester,DE,71045,Poland,2024-02-05 01:43:51,2024-05-07 11:56:14
+77,Ashlee,Simmons,garciajoshua@example.net,557-884-4704x4004,142 Ashley Meadow Apt. 608,South Cindychester,NJ,12862,Monaco,2024-07-03 01:27:10,2024-01-03 10:30:31
+78,Kevin,Lynn,kimberlycurtis@example.org,001-778-516-2441,738 Smith Expressway Suite 143,Elizabethview,FM,03387,Honduras,2024-06-07 10:19:04,2024-05-14 09:29:24
+79,Amy,Anderson,rgreen@example.net,+1-439-308-8854x6938,8972 Schultz Stream Apt. 391,Port Angela,LA,39395,Saint Barthelemy,2024-03-15 09:37:41,2024-04-17 21:57:52
+80,Gabriela,Velasquez,xperez@example.com,+1-705-443-6241x002,2345 Jeffrey Valleys,Chadton,RI,26037,Togo,2024-07-22 19:19:50,2024-01-13 16:25:36
+81,Jack,Woods,megan86@example.com,(923)824-1144,35095 Brown Centers Apt. 309,Mooreport,ME,28170,Bosnia and Herzegovina,2024-02-12 20:50:25,2024-04-19 16:09:46
+82,Barry,Hart,brianfuller@example.com,(487)808-5530,6101 Allen Corners Apt. 917,Fitzgeraldton,PR,68778,United States Virgin Islands,2024-03-08 13:27:07,2024-06-05 07:22:06
+83,Jared,Miller,smithlisa@example.net,+1-266-679-5507,7691 Austin Trail,Mendozaberg,WA,91788,Dominica,2024-03-06 11:46:26,2024-03-31 22:35:42
+84,Joshua,Wang,lorraineproctor@example.net,(649)622-8246x88139,81404 Hernandez Hills,Anthonyview,NJ,25847,Zimbabwe,2024-04-25 11:41:52,2024-01-31 04:31:09
+85,Jeffrey,Ramirez,cynthiatorres@example.net,(248)722-1075,3332 Newman Pine,South Barbaraside,CA,83861,Indonesia,2024-07-21 03:52:33,2024-03-11 01:59:29
+86,Dana,Little,cdougherty@example.com,447.554.5888x97598,8264 Michael Wells Suite 462,Port Rogerstad,DC,48117,Equatorial Guinea,2024-03-24 21:14:10,2024-07-13 08:41:06
+87,Theodore,Allen,kcarpenter@example.net,4454540220,5763 James Creek,Annaland,MD,66502,Greenland,2024-02-17 08:26:04,2024-05-28 07:16:16
+88,Alexandra,Frederick,christopher89@example.com,001-457-427-0277x34633,05775 Kelly Stravenue,Lake Danielleville,DE,69535,Northern Mariana Islands,2024-01-06 06:34:52,2024-04-18 14:54:57
+89,Teresa,Sullivan,johnbell@example.net,001-419-564-7050x01287,363 Johnson Freeway Suite 865,North Jamie,VT,36247,Libyan Arab Jamahiriya,2024-03-30 20:31:00,2024-04-25 05:03:03
+90,Sylvia,Flores,cummingsabigail@example.net,(831)999-0999,80849 Patricia Square Suite 213,Braunfort,NJ,84938,France,2024-07-10 12:15:21,2024-05-07 19:01:59
+91,Debra,Carrillo,jensendaniel@example.org,+1-605-697-6244x06026,665 Kayla Meadows,Lake Jeffreyburgh,SC,38713,Antigua and Barbuda,2024-02-16 15:49:16,2024-04-21 22:11:27
+92,Larry,Reed,daviswilliam@example.com,369.343.5488x92047,75047 Frank Loop Apt. 014,West Christopherhaven,FL,25222,Isle of Man,2024-04-02 13:50:00,2024-03-18 22:44:52
+93,Sonya,Li,oliverandrew@example.net,(298)884-8795,298 Gonzalez Fall Suite 324,Kimfurt,VI,87362,Tanzania,2024-02-26 10:07:12,2024-07-11 10:57:18
+94,Amber,Sweeney,callahanmichael@example.net,+1-903-287-8484x6840,569 Dennis Lodge Apt. 696,North Danielbury,CO,23631,Montserrat,2024-06-22 16:40:07,2024-05-28 10:49:27
+95,Anthony,Gentry,qandrews@example.org,001-264-877-8963x793,64944 Murray Expressway,Clarkmouth,GA,76206,Saudi Arabia,2024-07-19 08:33:14,2024-07-22 01:12:21
+96,Kimberly,David,fwood@example.com,001-638-428-8638x75179,2457 Lee Fields,Longside,RI,06251,Guadeloupe,2024-05-27 01:13:33,2024-05-03 08:43:32
+97,Michael,Villarreal,haguirre@example.net,001-759-788-4473x4410,03696 Jennifer Point,East Erinmouth,NJ,66668,Angola,2024-01-22 07:39:24,2024-05-08 14:01:04
+98,Karen,Love,brandymann@example.net,(990)212-2063x3227,8396 Brown Court Apt. 186,West Alexander,NJ,01580,Montenegro,2024-03-06 17:31:23,2024-06-24 07:53:25
+99,Brittney,Gutierrez,tyronethompson@example.com,(595)369-1649,1249 Collins Unions Apt. 044,Zacharyport,CO,11984,Bangladesh,2024-03-29 22:43:57,2024-06-01 23:00:47
+100,Michael,Woods,reedjason@example.org,936.641.1841x8392,058 Robert Causeway,Madelineburgh,MO,66893,Armenia,2024-07-17 11:02:35,2024-03-02 15:08:49

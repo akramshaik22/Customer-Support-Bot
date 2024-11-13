@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Database Connection Form</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body, .inner_div {
+
+            background: rgb(96,143,149); /* Old browsers */
+            background: -moz-linear-gradient(-45deg, rgba(96,143,149,1) 0%, rgba(0,133,136,1) 9%, rgba(12,36,73,1) 52%, rgba(26,30,59,1) 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(-45deg, rgba(96,143,149,1) 0%,rgba(0,133,136,1) 9%,rgba(12,36,73,1) 52%,rgba(26,30,59,1) 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(135deg, rgba(96,143,149,1) 0%,rgba(0,133,136,1) 9%,rgba(12,36,73,1) 52%,rgba(26,30,59,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#608f95', endColorstr='#1a1e3b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+        }
+        
+          @keyframes fadeOut {
+            from {
+              opacity: 1;
+              z-index: 10;
+            }
+            to {
+              opacity: 0;
+              z-index: 0;
+            }
+          }
+          @keyframes fadeIn {
+            from {
+              opacity: 0;
+            }
+            to {
+              opacity: 1;
+            }
+          }
+          
+          .fade-out {
+            animation: fadeOut 4s forwards;
+            z-index: 1;
+          }
+
+          .fade-in {
+            animation: fadeIn 6s forwards;
+          }
+          .display_overlap{
+            position: absolute;
+            top: 0%;
+          }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="content fade-out display_overlap">
+        <img src="{{url_for('static', filename='Team creators.gif')}}" alt="Description of the GIF">
+    </div>
+    <div class="container mx-auto p-6 display_overlap inner_div">
+        <h1 class="text-3xl font-bold text-center mb-6 text-white">Database Connection</h1>
+        <form action="/bot" method="post" class="flex flex-col" enctype="application/json">
+            <div class="mb-6">
+                <label for="host" class="block text-md font-medium text-white">Host</label>
+                <input type="text" id="host" name="host" required class="bg-gray-400 bg-opacity-50 p-2 mt-1 block w-full border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 md:text-md">
+            </div>
+            <div class="mb-6">
+                <label for="database" class="block text-md font-medium text-white">Database Name</label>
+                <input type="text" id="database" name="database" required class="bg-gray-400 bg-opacity-50 p-2 mt-1 block w-full border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 md:text-md">
+            </div>
+            <div class="mb-6">
+                <label for="user" class="block text-md font-medium text-white">User</label>
+                <input type="text" id="user" name="user" required class="bg-gray-400 bg-opacity-50 p-2 mt-1 block w-full border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 md:text-md">
+            </div>
+            <div class="mb-6">
+                <label for="password" class="block text-md font-medium text-white">Password</label>
+                <input type="password" id="password" name="password" class="bg-gray-400 bg-opacity-50 p-2 mt-1 block w-full border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 md:text-md">
+            </div>
+            
+            <div class="mb-6">
+                <label for="description" class="block text-md font-medium text-white">Schema</label>
+                <textarea id="schema" name="schema" rows="4" class="bg-gray-400 bg-opacity-50 p-2 mt-1 block w-full border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 md:text-md"></textarea>
+            </div>
+            <button type="submit" class="bg-gray-400 bg-opacity-50 items-center px-4 py-2 bg-indigo-600 border border-transparent rounded-md font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                Submit
+            </button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+Flask==3.0.0
+google==3.0.0
+google-generativeai
+pymysql
+python-dotenv==1.0.0
+numpy==1.23.1
+pandas==1.4.3
+Faker==26.0.0
